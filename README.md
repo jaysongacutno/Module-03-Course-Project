@@ -9,10 +9,13 @@ Review criteria
 5. The work submitted for this project is the work of the student who submitted it.
 
 Input
+
 Dataset
 - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Analysis Script
+
+
 run_analysis.R does the following:
 
 1. Merges the training and the test sets to create one data set.
@@ -22,9 +25,13 @@ run_analysis.R does the following:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Output
+
+
 Tidy dataset
 -tidy.txt
 
 Code Book
+
+
 CodeBook.md
 -describes the variables, the data, and any transformations or work that you performed to clean up the data
