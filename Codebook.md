@@ -31,5 +31,5 @@ Transforming the Data:
 - Used grepl to create descriptive column names
 
 
-
+Reliable sources: Class forums and google
 
